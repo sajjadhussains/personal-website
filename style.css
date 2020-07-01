@@ -1,0 +1,94 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+}
+h1{
+    font-size:40px;
+}
+h2{
+    font-size: 50px;
+}
+.name-color{
+    color:	#DA1884;
+}
+p{
+    color:dimgray;
+}
+
+.half-width{
+    width:35%;
+    float:left;
+    margin-left:5%;
+    margin-right:2%;
+    padding-left:4%;
+    padding-top:10%;
+}
+.half-width img{
+    width:100%;
+}
+
+.header-bg{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    height:700px;
+    padding-bottom:250px;
+}
+
+
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top:50px;
+    background-color:orange;
+    color:white;
+    font-weight: 700;
+}
+.biography-bg{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    height:600px;
+    padding-bottom:150px;
+}
+.work-area{
+    width:25%;
+    float:left;
+    margin-left:5%;
+  
+}
+.work-area img{
+    width:100%;
+}
+.work-heading{
+    text-align: center;
+    padding-bottom:30px;
+}
+.work-section{
+    height:500px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.client-area{
+    text-align: center;
+}
+.email-section{
+    height:600px;
+    padding-bottom:20px;
+}
+.email-button{
+    text-decoration:none;
+    background-image:linear-gradient(45deg,lightsalmon,tomato);
+    padding: 60px 120px;
+    margin-top:50px;
+    background-color:orange;
+    color:white;
+    font-weight: 700;
+}
+.client-{
+    margin-top: 120px;
+}
+footer{
+    text-align:center;
+
+}
